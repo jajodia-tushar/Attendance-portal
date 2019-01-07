@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "284126173062",
+    "firebase_url": "https://final662-c7219.firebaseio.com",
+    "project_id": "final662-c7219",
+    "storage_bucket": "final662-c7219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284126173062:android:973f2a5f5026640d",
+        "android_client_info": {
+          "package_name": "com.example.tushar.final662"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284126173062-am056m4ekv5bklp04ngtq5lcp71i3uh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tushar.final662",
+            "certificate_hash": "c8a8fa174e0781d4ece90210980c56f580e551dc"
+          }
+        },
+        {
+          "client_id": "284126173062-spbv3204pmetu7he2r1dpligtan66srr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMnuFB1cdyKbdXtXuWHujfIXQ56PL4DjU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284126173062-spbv3204pmetu7he2r1dpligtan66srr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
