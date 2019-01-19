@@ -40,8 +40,8 @@
                 android:hint="0"
                 android:paddingLeft="15dp"
                 android:paddingTop="10dp"
-                android:textSize="15sp"
-                android:textColor="@color/selected_color"/>
+                android:textColor="@color/selected_color"
+                android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/leaves"
@@ -49,12 +49,12 @@
                 android:layout_height="40dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginRight="11dp"
-                android:layout_marginStart="30dp"
+                android:layout_marginStart="29dp"
                 android:layout_toEndOf="@+id/required"
                 android:hint="0"
-                android:textColor="#0f6703"
                 android:paddingLeft="15dp"
                 android:paddingTop="10dp"
+                android:textColor="#0f6703"
                 android:textSize="15sp" />
 
         </RelativeLayout>

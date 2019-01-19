@@ -37,13 +37,12 @@
                 android:layout_height="40dp"
                 android:layout_alignParentTop="true"
                 android:layout_marginLeft="11dp"
-                android:layout_marginStart="10dp"
                 android:layout_toEndOf="@+id/subject"
                 android:hint="0"
-                android:textColor="#0f6703"
                 android:paddingLeft="15dp"
                 android:paddingTop="10dp"
                 android:textAlignment="viewStart"
+                android:textColor="#0f6703"
                 android:textSize="14sp" />
 
             <TextView
@@ -54,10 +53,10 @@
                 android:layout_marginStart="10dp"
                 android:layout_toEndOf="@+id/present"
                 android:hint="0"
-                android:textColor="@color/selected_color"
                 android:paddingLeft="15dp"
                 android:paddingTop="10dp"
                 android:textAlignment="viewStart"
+                android:textColor="@color/selected_color"
                 android:textSize="14sp" />
 
             <TextView
@@ -67,12 +66,12 @@
                 android:layout_alignParentTop="true"
                 android:layout_marginStart="10dp"
                 android:layout_toEndOf="@+id/absent"
-                android:textColor="@color/selected_color2"
                 android:layout_weight="0.70"
                 android:paddingLeft="15dp"
                 android:paddingTop="10dp"
                 android:text="0"
                 android:textAlignment="viewStart"
+                android:textColor="@color/selected_color2"
                 android:textSize="14sp" />
 
         </RelativeLayout>
